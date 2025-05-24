@@ -31,5 +31,7 @@ public class ProgressBarDemo {
             }
             counter++;
         }
+
+        frame.dispose();
     }
 }
